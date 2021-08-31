@@ -3,10 +3,13 @@ A 2D Game Powered with Python using Pygame, You're Protector of Earth, Enemies f
 
 #### Game Controls
 ###### Movements
-> W (Up)
-> S (Down)
-> A (Left)
-> D (Right)
-
+```
+W (Up)
+S (Down)
+A (Left)
+D (Right)
+```
 ###### Bullet Fire
-> Right Ctrl
+```
+Right Ctrl
+```
